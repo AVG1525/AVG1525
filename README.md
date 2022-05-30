@@ -10,7 +10,7 @@
 <br>
 
 # Interesses:
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVG1525&layout=compact&theme=dark" alt="avg1525" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVG1525&layout=compact&theme=dark&hide_border=true" alt="avg1525" />
 
 - 👨🏻‍💻 IA
 - :zap: RPA
